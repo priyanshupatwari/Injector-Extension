@@ -6,9 +6,7 @@
     "content_scripts": [
         {
             "matches": [
-                "https://*.youtube.com/*",
-                "https://*.google.com/*",
-                "https://*.microsoft.com/*"
+                "https://pw.live/study/",
             ],
             "js": [
                 "app.js"
