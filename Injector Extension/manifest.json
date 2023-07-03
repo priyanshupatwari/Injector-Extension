@@ -6,7 +6,7 @@
     "content_scripts": [
         {
             "matches": [
-                "https://pw.live/*",
+                "https://pw.live/*"
             ],
             "js": [
                 "app.js"
